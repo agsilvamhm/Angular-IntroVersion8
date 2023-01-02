@@ -6,4 +6,5 @@ export class Course {
    code: string = ''
    duration: number = 0.0
    rating: number = 0.0  
+   releaseDate: string = '' 
 }
